@@ -5,33 +5,31 @@
   </a>
 </div>
 
-  
-  👩🏻‍💻 Débora Malta
+  #
+  <p align="center">👩🏻‍💻 Débora Malta
 
-**`Desenvolvedora FullStack`**
+<p align="center">**`Desenvolvedora FullStack`**
 
-Oi! Seja bem-vindo(a) ao meu GitHub 😊  
+<p align="center">Oi! Seja bem-vindo(a) ao meu GitHub 😊  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante aprendizado.  
+<p align="center">Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante aprendizado.  
 Gosto de explorar novas tecnologias, entender como os sistemas funcionam e transformar conhecimento em prática.
-
 Aqui você encontrará projetos desenvolvidos durante minha formação acadêmica, sempre com foco em organização, clareza e evolução técnica.
+🚀 Aprender tecnologia é um processo contínuo  e é isso que me motiva todos os dias.
 
-🚀 Aprender tecnologia é um processo contínuo — e é isso que me motiva todos os dias.
+  
+#
   
 
-<img align="right" alt="" height="190px" src="./src/study.gif">  
-
+<p align="left">  <img src="https://raw.githubusercontent.com/Deboramalta/Deboramalta/main/study.gif"  align="right" alt="" height="200px" "></p>
+ 
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:debora.nasciimeentoo@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/debora-cristina-malta/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/debora.nasciimeentoo/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=000)](mailto:debora.nasciimeentoo@hotmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=000)](https://www.linkedin.com/in/debora-cristina-malta/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000)](https://www.instagram.com/debora.nasciimeentoo/)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deboramalta/Deboramalta/main/study.gif" alt="Estudo" width="250">
-</p>
 
 
 
@@ -59,9 +57,6 @@ Aqui você encontrará projetos desenvolvidos durante minha formação acadêmic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
 
 
 
