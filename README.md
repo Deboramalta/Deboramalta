@@ -5,19 +5,6 @@
   </a>
 </div>
 
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=524&lines=⊹+Welcome+to+my+profile!+˙ᵕ˙+⊹" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deboramalta/Deboramalta/main/study.gif" alt="Estudo" width="250">
-</p>
-
-
-<p align="center">
   
   👩🏻‍💻 Débora Malta
 
@@ -33,13 +20,19 @@ Aqui você encontrará projetos desenvolvidos durante minha formação acadêmic
 🚀 Aprender tecnologia é um processo contínuo — e é isso que me motiva todos os dias.
   
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/study.gif">  
+
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:debora.nasciimeentoo@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/debora-cristina-malta/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/debora.nasciimeentoo/)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deboramalta/Deboramalta/main/study.gif" alt="Estudo" width="250">
+</p>
+
 
 
 <h3 align="left">My Stack ~</h3>
@@ -66,21 +59,13 @@ Aqui você encontrará projetos desenvolvidos durante minha formação acadêmic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
-#
-
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
 
- <img
-    src="https://github-readme-stats.vercel.app/api?username=Deboramalta&show_icons=true&theme=jolly&hide_title=true"
-    height="150"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deboramalta&layout=compact&theme=jolly"
-    height="150"
-  />
+
+  
 </div>
 
 
