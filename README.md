@@ -33,7 +33,7 @@ Aqui você encontrará projetos desenvolvidos durante minha formação acadêmic
 
 
 
-<h3 align="left">My Stack ~</h3>
+## 🚀 My Stack
 
 <div align="left">
   <div align="left">
