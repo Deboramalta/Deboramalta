@@ -14,8 +14,8 @@
 
 <p align="center">Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante aprendizado.  
 Gosto de explorar novas tecnologias, entender como os sistemas funcionam e transformar conhecimento em prática.
-Aqui você encontrará projetos desenvolvidos durante minha formação acadêmica, sempre com foco em organização, clareza e evolução técnica.
-🚀 Aprender tecnologia é um processo contínuo  e é isso que me motiva todos os dias.
+Aqui você encontrará projetos desenvolvidos durante minha formação acadêmica, sempre com foco em organização, clareza e evolução técnica.  
+<p align="center"> 🚀 Aprender tecnologia é um processo contínuo  e é isso que me motiva todos os dias.
 
   
 #
