@@ -5,9 +5,17 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
 
-#
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=524&lines=⊹+Welcome+to+my+profile!+˙ᵕ˙+⊹" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deboramalta/Deboramalta/main/study.gif" alt="Estudo" width="250">
+</p>
+
 
 <p align="center">
   
